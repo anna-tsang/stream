@@ -1,7 +1,3 @@
-com/thoughtworks/collection/StreamSupplement.java
- com.thoughtworks.collection.StreamSupplement
-com/thoughtworks/collection/StreamReduce.java
- com.thoughtworks.collection.StreamReduce
 com/thoughtworks/collection/StreamFilter.java
  com.thoughtworks.collection.StreamFilter
 com/thoughtworks/collection/StreamMap.java
